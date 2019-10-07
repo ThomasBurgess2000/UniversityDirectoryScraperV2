@@ -1,0 +1,2 @@
+# UniversityDirectoryScraperV2
+UniversityDirectoryScraper rewritten with Selenium

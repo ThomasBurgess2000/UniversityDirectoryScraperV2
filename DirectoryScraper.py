@@ -82,7 +82,7 @@ for t in range(1,371):
     while (i<len(pageListOfEmails)):
         #Frickin idiot Tom
         if (pageListOfNames[i].text=='Tom Keene'):
-            RANDOMSCHOOLDirectory['Tom Keene']=['',"https://apps.biola.edu/idphotos/d36ec5f30a0cd006d11f2c953ac844fb_medium.jpg"]
+            RANDOMSCHOOLDirectory['Tom Keene']=['',"https://apps.RANDOMSCHOOL.edu/idphotos/d36ec5f30a0cd006d11f2c953ac844fb_medium.jpg"]
             p-=1
         else:
             RANDOMSCHOOLDirectory[pageListOfNames[i].text]=[fixedPageListOfEmails[i],fixedPageListOfImages[p]]

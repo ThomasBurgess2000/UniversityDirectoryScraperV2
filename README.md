@@ -1,5 +1,5 @@
 # UniversityDirectoryScraperV2
-UniversityDirectoryScraper rewritten and expanded with Selenium.
+UniversityDirectoryScraper rewritten and expanded with Selenium. Includes facial recognition.
 
 This script contains a lot of functionality, albeit with some of it obscured due to an agreement with the university IT department.
 
